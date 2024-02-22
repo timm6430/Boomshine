@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">group3Boomshine</string>
+    <string name="sPlayGame">Play Game</string>
+    <string name="sAbout">About</string>
+    <string name="rulesOfGameTitle">Rules of The Game </string>
+    <string name="rulesOfGame">
+        Use the left click button on the mouse to trigger an explosion \n
+        If a ball comes into contact with the explosion it will also explosion
+        and increase your score by 1. \n
+        You have 3 attempts to achieve the required score to move on to the next level.
+        Failure to do so will restart the game at level 1. \n
+    </string>
+    <string name="Information">Author: <b>Julia Crumb and Michael Timmerman \n</b>
+        Email: <b>crum0108@pacificu.edu and timm6430@pacificu.edu \n</b>
+        Version: <b>1.0 \n</b></string>
+    <string name="sIcon">Icon: https://www.flaticon.com/</string>
+</resources>
